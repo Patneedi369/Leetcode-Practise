@@ -24,3 +24,74 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
+
+## All Problems (63)
+
+This list reflects the latest commits and folder structure in this repository.
+
+| # | Problem | Folder |
+|---:|---|---|
+| 1 | Two Sum | [0001-two-sum](0001-two-sum/) |
+| 3 | Longest Substring Without Repeating Characters | [0003-longest-substring-without-repeating-characters](0003-longest-substring-without-repeating-characters/) |
+| 11 | Container With Most Water | [0011-container-with-most-water](0011-container-with-most-water/) |
+| 15 | 3sum | [0015-3sum](0015-3sum/) |
+| 19 | Remove Nth Node From End Of List | [0019-remove-nth-node-from-end-of-list](0019-remove-nth-node-from-end-of-list/) |
+| 20 | Valid Parentheses | [0020-valid-parentheses](0020-valid-parentheses/) |
+| 21 | Merge Two Sorted Lists | [0021-merge-two-sorted-lists](0021-merge-two-sorted-lists/) |
+| 26 | Remove Duplicates From Sorted Array | [0026-remove-duplicates-from-sorted-array](0026-remove-duplicates-from-sorted-array/) |
+| 27 | Remove Element | [0027-remove-element](0027-remove-element/) |
+| 49 | Group Anagrams | [0049-group-anagrams](0049-group-anagrams/) |
+| 83 | Remove Duplicates From Sorted List | [0083-remove-duplicates-from-sorted-list](0083-remove-duplicates-from-sorted-list/) |
+| 88 | Merge Sorted Array | [0088-merge-sorted-array](0088-merge-sorted-array/) |
+| 121 | Best Time To Buy And Sell Stock | [0121-best-time-to-buy-and-sell-stock](0121-best-time-to-buy-and-sell-stock/) |
+| 125 | Valid Palindrome | [0125-valid-palindrome](0125-valid-palindrome/) |
+| 128 | Longest Consecutive Sequence | [0128-longest-consecutive-sequence](0128-longest-consecutive-sequence/) |
+| 141 | Linked List Cycle | [0141-linked-list-cycle](0141-linked-list-cycle/) |
+| 143 | Reorder List | [0143-reorder-list](0143-reorder-list/) |
+| 155 | Min Stack | [0155-min-stack](0155-min-stack/) |
+| 169 | Majority Element | [0169-majority-element](0169-majority-element/) |
+| 205 | Isomorphic Strings | [0205-isomorphic-strings](0205-isomorphic-strings/) |
+| 206 | Reverse Linked List | [0206-reverse-linked-list](0206-reverse-linked-list/) |
+| 209 | Minimum Size Subarray Sum | [0209-minimum-size-subarray-sum](0209-minimum-size-subarray-sum/) |
+| 217 | Contains Duplicate | [0217-contains-duplicate](0217-contains-duplicate/) |
+| 219 | Contains Duplicate II | [0219-contains-duplicate-ii](0219-contains-duplicate-ii/) |
+| 234 | Palindrome Linked List | [0234-palindrome-linked-list](0234-palindrome-linked-list/) |
+| 242 | Valid Anagram | [0242-valid-anagram](0242-valid-anagram/) |
+| 283 | Move Zeroes | [0283-move-zeroes](0283-move-zeroes/) |
+| 290 | Word Pattern | [0290-word-pattern](0290-word-pattern/) |
+| 347 | Top K Frequent Elements | [0347-top-k-frequent-elements](0347-top-k-frequent-elements/) |
+| 349 | Intersection Of Two Arrays | [0349-intersection-of-two-arrays](0349-intersection-of-two-arrays/) |
+| 350 | Intersection Of Two Arrays II | [0350-intersection-of-two-arrays-ii](0350-intersection-of-two-arrays-ii/) |
+| 383 | Ransom Note | [0383-ransom-note](0383-ransom-note/) |
+| 387 | First Unique Character In A String | [0387-first-unique-character-in-a-string](0387-first-unique-character-in-a-string/) |
+| 389 | Find The Difference | [0389-find-the-difference](0389-find-the-difference/) |
+| 424 | Longest Repeating Character Replacement | [0424-longest-repeating-character-replacement](0424-longest-repeating-character-replacement/) |
+| 448 | Find All Numbers Disappeared In An Array | [0448-find-all-numbers-disappeared-in-an-array](0448-find-all-numbers-disappeared-in-an-array/) |
+| 485 | Max Consecutive Ones | [0485-max-consecutive-ones](0485-max-consecutive-ones/) |
+| 496 | Next Greater Element I | [0496-next-greater-element-i](0496-next-greater-element-i/) |
+| 739 | Daily Temperatures | [0739-daily-temperatures](0739-daily-temperatures/) |
+| 876 | Middle Of The Linked List | [0876-middle-of-the-linked-list](0876-middle-of-the-linked-list/) |
+| 905 | Sort Array By Parity | [0905-sort-array-by-parity](0905-sort-array-by-parity/) |
+| 977 | Squares Of A Sorted Array | [0977-squares-of-a-sorted-array](0977-squares-of-a-sorted-array/) |
+| 1051 | Height Checker | [1051-height-checker](1051-height-checker/) |
+| 1207 | Unique Number Of Occurrences | [1207-unique-number-of-occurrences](1207-unique-number-of-occurrences/) |
+| 1295 | Find Numbers With Even Number Of Digits | [1295-find-numbers-with-even-number-of-digits](1295-find-numbers-with-even-number-of-digits/) |
+| 1299 | Replace Elements With Greatest Element On Right Side | [1299-replace-elements-with-greatest-element-on-right-side](1299-replace-elements-with-greatest-element-on-right-side/) |
+| 1365 | How Many Numbers Are Smaller Than The Current Number | [1365-how-many-numbers-are-smaller-than-the-current-number](1365-how-many-numbers-are-smaller-than-the-current-number/) |
+| 1436 | Destination City | [1436-destination-city](1436-destination-city/) |
+| 1456 | Maximum Number Of Vowels In A Substring Of Given Length | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](1456-maximum-number-of-vowels-in-a-substring-of-given-length/) |
+| 1480 | Running Sum Of 1d Array | [1480-running-sum-of-1d-array](1480-running-sum-of-1d-array/) |
+| 1624 | Largest Substring Between Two Equal Characters | [1624-largest-substring-between-two-equal-characters](1624-largest-substring-between-two-equal-characters/) |
+| 1684 | Count The Number Of Consistent Strings | [1684-count-the-number-of-consistent-strings](1684-count-the-number-of-consistent-strings/) |
+| 1748 | Sum Of Unique Elements | [1748-sum-of-unique-elements](1748-sum-of-unique-elements/) |
+| 1796 | Second Largest Digit In A String | [1796-second-largest-digit-in-a-string](1796-second-largest-digit-in-a-string/) |
+| 1876 | Substrings Of Size Three With Distinct Characters | [1876-substrings-of-size-three-with-distinct-characters](1876-substrings-of-size-three-with-distinct-characters/) |
+| 1929 | Concatenation Of Array | [1929-concatenation-of-array](1929-concatenation-of-array/) |
+| 1984 | Minimum Difference Between Highest And Lowest Of K Scores | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](1984-minimum-difference-between-highest-and-lowest-of-k-scores/) |
+| 2006 | Count Number Of Pairs With Absolute Difference K | [2006-count-number-of-pairs-with-absolute-difference-k](2006-count-number-of-pairs-with-absolute-difference-k/) |
+| 2068 | Check Whether Two Strings Are Almost Equivalent | [2068-check-whether-two-strings-are-almost-equivalent](2068-check-whether-two-strings-are-almost-equivalent/) |
+| 2206 | Divide Array Into Equal Pairs | [2206-divide-array-into-equal-pairs](2206-divide-array-into-equal-pairs/) |
+| 2269 | Find The K Beauty Of A Number | [2269-find-the-k-beauty-of-a-number](2269-find-the-k-beauty-of-a-number/) |
+| 2351 | First Letter To Appear Twice | [2351-first-letter-to-appear-twice](2351-first-letter-to-appear-twice/) |
+| 2423 | Remove Letter To Equalize Frequency | [2423-remove-letter-to-equalize-frequency](2423-remove-letter-to-equalize-frequency/) |
+| 3739 | Count Subarrays With Majority Element II | [3739-count-subarrays-with-majority-element-ii](3739-count-subarrays-with-majority-element-ii/) |
