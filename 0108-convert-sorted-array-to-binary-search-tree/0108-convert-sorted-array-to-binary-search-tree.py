@@ -5,12 +5,17 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
-        
-        if not nums:
+    def sortedArrayToBST(self, nums: List[int], left=0, right=None) -> Optional[TreeNode]:
+        if right is None:
+            right = len(nums) - 1
+            
+        if left > right:
             return None
-        node = TreeNode(nums[len(nums)//2])
-        node.left = self.sortedArrayToBST(nums[0:len(nums)//2])
-        node.right = self.sortedArrayToBST(nums[(len(nums)//2 + 1):])
+            
+        mid = (left + right) // 2
+        node = TreeNode(nums[mid])
+        
+        node.left = self.sortedArrayToBST(nums, left, mid - 1)
+        node.right = self.sortedArrayToBST(nums, mid + 1, right)
         
         return node
