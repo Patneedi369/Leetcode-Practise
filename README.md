@@ -44,11 +44,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
