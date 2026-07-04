@@ -2,12 +2,15 @@ class Solution:
     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         if not root:
             return None
+        
+        queue = collections.deque([root])
 
-        root.left, root.right = root.right, root.left
+        while queue:
+            node = queue.popleft()
+            
+            node.left, node.right = node.right, node.left
 
-        if root.left: self.invertTree(root.left)
-        if root.right: self.invertTree(root.right)
-    
+            if node.left: queue.append(node.left)
+            if node.right: queue.append(node.right)
+        
         return root
-
-
