@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0035-search-insert-position/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0035-search-insert-position/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
