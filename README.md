@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0035-search-insert-position/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0704-binary-search](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0704-binary-search/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0035-search-insert-position/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
