@@ -1,10 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        seen = {}
-        for i,num in enumerate(nums):
-            compliment = target - num
-            if compliment in seen: 
-                return [seen[compliment], i]
+        hashmap = {}
+        for i, num in enumerate(nums):
+            if num in hashmap:
+                return [i, hashmap[num]]
             else:
-                seen[num] = i
-        return False
+                hashmap[target - num] = i
+        return -1
