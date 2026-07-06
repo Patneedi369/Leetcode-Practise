@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0226-invert-binary-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0515-find-largest-value-in-each-tree-row/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
