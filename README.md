@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0355-design-twitter](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0355-design-twitter/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0355-design-twitter](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0355-design-twitter/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0621-task-scheduler](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0355-design-twitter](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0355-design-twitter/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
