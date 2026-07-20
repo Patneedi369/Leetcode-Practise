@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0143-reorder-list/) | Medium |
+| [0189-rotate-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Stack
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0189-rotate-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -158,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0066-plus-one/) | Easy |
+| [0189-rotate-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0189-rotate-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Matrix
