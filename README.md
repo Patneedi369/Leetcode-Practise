@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0189-rotate-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
