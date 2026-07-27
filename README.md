@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1046-last-stone-weight/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1046-last-stone-weight/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
