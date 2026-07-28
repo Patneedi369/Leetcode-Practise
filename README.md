@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0036-valid-sudoku/) | Medium |
 | [0066-plus-one](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0066-plus-one/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0036-valid-sudoku/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0036-valid-sudoku/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
