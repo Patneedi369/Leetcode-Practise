@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0355-design-twitter](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0355-design-twitter/) | Medium |
+| [0706-design-hashmap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0706-design-hashmap/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0704-binary-search/) | Easy |
+| [0706-design-hashmap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0706-design-hashmap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1046-last-stone-weight/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0706-design-hashmap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0706-design-hashmap/) | Easy |
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0355-design-twitter](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0355-design-twitter/) | Medium |
+| [0706-design-hashmap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0706-design-hashmap/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -293,6 +297,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0645-set-mismatch/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
 
 ## All Problems (63)
