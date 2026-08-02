@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0706-design-hashmap/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0748-shortest-completing-word/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0888-fair-candy-swap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1046-last-stone-weight/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
@@ -156,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0268-missing-number/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0704-binary-search/) | Easy |
+| [0888-fair-candy-swap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0888-fair-candy-swap/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0706-design-hashmap/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0748-shortest-completing-word/) | Easy |
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
+| [0888-fair-candy-swap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0888-fair-candy-swap/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0645-set-mismatch/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
+| [0888-fair-candy-swap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0888-fair-candy-swap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Heap (Priority Queue)
