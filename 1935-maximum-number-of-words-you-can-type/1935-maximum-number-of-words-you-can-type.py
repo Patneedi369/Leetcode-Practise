@@ -2,16 +2,11 @@ class Solution:
     def canBeTypedWords(self, text: str, brokenLetters: str) -> int:
         broken = set(brokenLetters)
         words = text.split()
-        op = 0
+        
+        count = 0
         for word in words:
-            flag = len(word)
-            for ch in word:
-                if flag != len(word):
-                    break
-                if ch in broken:
-                    flag -= 1
-            if flag == len(word):
-                op += 1
-        return op
-            
+            # If NONE of the characters in the word are broken, increment count
+            if not any(ch in broken for ch in word):
+                count += 1
                 
+        return count
