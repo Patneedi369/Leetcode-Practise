@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0706-design-hashmap/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0748-shortest-completing-word/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0888-fair-candy-swap/) | Easy |
+| [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1046-last-stone-weight/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
@@ -178,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
 | [0859-buddy-strings](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0859-buddy-strings/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0888-fair-candy-swap/) | Easy |
+| [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 ## Math
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0748-shortest-completing-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0748-shortest-completing-word/) | Easy |
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
 | [0859-buddy-strings](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0859-buddy-strings/) | Easy |
+| [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 ## Sorting
