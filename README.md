@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0704-binary-search/) | Easy |
 | [0706-design-hashmap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0706-design-hashmap/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0748-shortest-completing-word/) | Easy |
+| [0819-most-common-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0819-most-common-word/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0888-fair-candy-swap/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0706-design-hashmap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0706-design-hashmap/) | Easy |
 | [0748-shortest-completing-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0748-shortest-completing-word/) | Easy |
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
+| [0819-most-common-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0859-buddy-strings/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0888-fair-candy-swap/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0748-shortest-completing-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0748-shortest-completing-word/) | Easy |
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
+| [0819-most-common-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0819-most-common-word/) | Easy |
 | [0859-buddy-strings](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0859-buddy-strings/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
+| [0819-most-common-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0819-most-common-word/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 ## Design
 | Problem Name | Difficulty |
