@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1046-last-stone-weight/) | Easy |
 | [1122-relative-sort-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1122-relative-sort-array/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
@@ -192,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0997-find-the-town-judge](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0997-find-the-town-judge/) | Easy |
 | [1122-relative-sort-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1122-relative-sort-array/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -328,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0067-add-binary](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0067-add-binary/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
