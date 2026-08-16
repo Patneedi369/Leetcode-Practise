@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-path-crossing](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1496-path-crossing/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
