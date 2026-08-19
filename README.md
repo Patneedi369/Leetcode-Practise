@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1122-relative-sort-array/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1399-count-largest-group](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1399-count-largest-group/) | Easy |
 | [1496-path-crossing](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1496-path-crossing/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
@@ -330,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0645-set-mismatch/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1386-cinema-seat-allocation/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
