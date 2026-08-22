@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1399-count-largest-group](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1399-count-largest-group/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
