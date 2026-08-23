@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
@@ -171,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0704-binary-search/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0888-fair-candy-swap/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1399-count-largest-group](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1399-count-largest-group/) | Easy |
 | [1496-path-crossing](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1496-path-crossing/) | Easy |
@@ -271,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1122-relative-sort-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1122-relative-sort-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
