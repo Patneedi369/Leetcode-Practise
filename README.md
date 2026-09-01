@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1346-check-if-n-and-its-double-exist](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1399-count-largest-group/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1496-path-crossing](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1496-path-crossing/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1122-relative-sort-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1122-relative-sort-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Heap (Priority Queue)
