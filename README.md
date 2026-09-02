@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1763-longest-nice-substring/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1496-path-crossing](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1496-path-crossing/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [1763-longest-nice-substring](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1763-longest-nice-substring/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
@@ -255,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1763-longest-nice-substring](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1763-longest-nice-substring/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1496-path-crossing](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1496-path-crossing/) | Easy |
+| [1763-longest-nice-substring](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1763-longest-nice-substring/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -387,6 +391,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0268-missing-number/) | Easy |
 | [0645-set-mismatch](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0645-set-mismatch/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1763-longest-nice-substring](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1763-longest-nice-substring/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
