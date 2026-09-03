@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0997-find-the-town-judge/) | Easy |
+| [1002-find-common-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1002-find-common-characters/) | Easy |
 | [1046-last-stone-weight](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1046-last-stone-weight/) | Easy |
 | [1122-relative-sort-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1122-relative-sort-array/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0997-find-the-town-judge](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0997-find-the-town-judge/) | Easy |
+| [1002-find-common-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1122-relative-sort-array/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -274,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-buddy-strings](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
+| [1002-find-common-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1002-find-common-characters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1370-increasing-decreasing-string/) | Easy |
