@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1046-last-stone-weight/) | Easy |
 | [1122-relative-sort-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1122-relative-sort-array/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -214,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-find-common-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1002-find-common-characters/) | Easy |
 | [1122-relative-sort-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1122-relative-sort-array/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
 | [1002-find-common-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1002-find-common-characters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1496-path-crossing](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1496-path-crossing/) | Easy |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1128-number-of-equivalent-domino-pairs/) | Easy |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
