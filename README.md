@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3870-count-commas-in-range/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
