@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1656-design-an-ordered-stream/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1763-longest-nice-substring/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1399-count-largest-group](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3870-count-commas-in-range/) | Easy |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1394-find-lucky-integer-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1399-count-largest-group](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Design
