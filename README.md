@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1656-design-an-ordered-stream](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
+| [2032-two-out-of-three](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2032-two-out-of-three/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [2032-two-out-of-three](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2032-two-out-of-three/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -418,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0645-set-mismatch/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1763-longest-nice-substring/) | Easy |
+| [2032-two-out-of-three](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2032-two-out-of-three/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
