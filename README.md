@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2032-two-out-of-three](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2032-two-out-of-three/) | Easy |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -307,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1805-number-of-different-integers-in-a-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
