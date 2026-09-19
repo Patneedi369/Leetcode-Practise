@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-rectangle-overlap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1399-count-largest-group](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1399-count-largest-group/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0836-rectangle-overlap/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
