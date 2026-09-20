@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0234-palindrome-linked-list/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-count-special-quadruplets](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2032-two-out-of-three](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2032-two-out-of-three/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-count-special-quadruplets](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2032-two-out-of-three](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2032-two-out-of-three/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
@@ -335,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1460-make-two-arrays-equal-by-reversing-subarrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -469,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1995-count-special-quadruplets](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1995-count-special-quadruplets/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
 
 ## All Problems (63)
