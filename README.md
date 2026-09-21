@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-two-out-of-three](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2032-two-out-of-three/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-two-out-of-three](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2032-two-out-of-three/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
