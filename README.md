@@ -166,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2133-check-if-every-row-and-column-contains-all-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1399-count-largest-group](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Design
