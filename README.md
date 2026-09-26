@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0819-most-common-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0819-most-common-word/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0888-fair-candy-swap/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
+| [0953-verifying-an-alien-dictionary](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0997-find-the-town-judge/) | Easy |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0884-uncommon-words-from-two-sentences](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0888-fair-candy-swap](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0888-fair-candy-swap/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
+| [0953-verifying-an-alien-dictionary](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0961-n-repeated-element-in-size-2n-array/) | Easy |
 | [0997-find-the-town-judge](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0997-find-the-town-judge/) | Easy |
 | [1002-find-common-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1002-find-common-characters/) | Easy |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0859-buddy-strings](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0859-buddy-strings/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
+| [0953-verifying-an-alien-dictionary](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1002-find-common-characters/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
