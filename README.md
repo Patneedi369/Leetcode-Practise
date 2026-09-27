@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-sort-array-by-increasing-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0973-k-closest-points-to-origin](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -436,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0767-reorganize-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0767-reorganize-string/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -447,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1260-shift-2d-grid](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1260-shift-2d-grid/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
