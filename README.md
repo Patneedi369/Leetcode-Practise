@@ -262,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1995-count-special-quadruplets](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
