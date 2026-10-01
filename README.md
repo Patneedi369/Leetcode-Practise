@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -313,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0020-valid-parentheses/) | Easy |
 | [0058-length-of-last-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0067-add-binary/) | Easy |
 | [0500-keyboard-row](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0500-keyboard-row/) | Easy |
@@ -508,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
 
