@@ -315,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0022-generate-parentheses/) | Medium |
 | [0058-length-of-last-word](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0067-add-binary/) | Easy |
 | [0500-keyboard-row](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0500-keyboard-row/) | Easy |
@@ -511,7 +512,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0022-generate-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
 
 ## All Problems (63)
