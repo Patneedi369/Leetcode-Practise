@@ -176,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2363-merge-similar-items](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2363-merge-similar-items/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2363-merge-similar-items](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2363-merge-similar-items/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2363-merge-similar-items](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2363-merge-similar-items/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 ## Heap (Priority Queue)
@@ -536,6 +539,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0022-generate-parentheses/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2363-merge-similar-items](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2363-merge-similar-items/) | Easy |
 <!---LeetCode Topics End-->
 
 ## All Problems (63)
