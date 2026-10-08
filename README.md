@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0020-valid-parentheses/) | Easy |
 | [0143-reorder-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Recursion
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0929-unique-email-addresses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0929-unique-email-addresses/) | Easy |
 | [0953-verifying-an-alien-dictionary](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1002-find-common-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1002-find-common-characters/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0022-generate-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
