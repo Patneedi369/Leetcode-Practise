@@ -180,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2363-merge-similar-items](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2363-merge-similar-items/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2363-merge-similar-items](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2363-merge-similar-items/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2815-max-pair-sum-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2815-max-pair-sum-in-an-array/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -527,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-count-special-quadruplets](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
