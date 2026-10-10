@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2032-two-out-of-three](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2032-two-out-of-three/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
 | [1995-count-special-quadruplets](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2032-two-out-of-three](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2032-two-out-of-three/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -354,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1935-maximum-number-of-words-you-can-type/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2062-count-vowel-substrings-of-a-string/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
@@ -436,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
