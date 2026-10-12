@@ -259,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-design-an-ordered-stream](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1656-design-an-ordered-stream/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1763-longest-nice-substring/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1496-path-crossing](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1496-path-crossing/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1763-longest-nice-substring](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1763-longest-nice-substring/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1805-number-of-different-integers-in-a-string](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1805-number-of-different-integers-in-a-string/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
@@ -438,6 +440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1399-count-largest-group](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1399-count-largest-group/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1742-maximum-number-of-balls-in-a-box/) | Easy |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1790-check-if-one-string-swap-can-make-strings-equal/) | Easy |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1897-redistribute-characters-to-make-all-strings-equal/) | Easy |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
