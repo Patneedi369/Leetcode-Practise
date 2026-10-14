@@ -309,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Matrix
@@ -482,6 +483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
