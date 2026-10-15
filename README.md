@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/Patneedi369/Leetcode-Practise/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2465-number-of-distinct-averages/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2363-merge-similar-items/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2363-merge-similar-items/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2475-number-of-unequal-triplets-in-array/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
@@ -541,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1995-count-special-quadruplets](https://github.com/Patneedi369/Leetcode-Practise/tree/main/1995-count-special-quadruplets/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2367-number-of-arithmetic-triplets](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
