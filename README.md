@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2363-merge-similar-items/) | Easy |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2273-find-resultant-array-after-removing-anagrams/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2309-greatest-english-letter-in-upper-and-lower-case/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2363-merge-similar-items](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2363-merge-similar-items/) | Easy |
@@ -452,6 +454,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2085-count-common-words-with-one-occurrence](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2190-most-frequent-number-following-key-in-an-array/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2341-maximum-number-of-pairs-in-array/) | Easy |
 | [2347-best-poker-hand](https://github.com/Patneedi369/Leetcode-Practise/tree/main/2347-best-poker-hand/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Patneedi369/Leetcode-Practise/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Design
